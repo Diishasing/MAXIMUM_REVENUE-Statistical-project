@@ -54,7 +54,7 @@
 <li>Alternate Hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash.</li>
 <h4>With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods. Hence, the alternate hypothesis is correct since the p-value is less than 0.05</h4>
 
-<h3>REGRESSION ANALYSIS</h3>
+
 
 <h3>RECOMMENDATIONS</h3>
 <li>
