@@ -8,7 +8,7 @@
   </a> 
 
   <h1 align="center">Maximum Revenue for Cab Drivers</h1>
-  <p align = "center"> Exploratory Data Analysis, Python, Descriptive analysis, Hypothesis testing, Regression analysis </p>
+  <p align = "center"> Exploratory Data Analysis, Python, Descriptive analysis, Hypothesis testing</p>
 <h3 align="left">PROBLEM STATEMENT</h3><p align="justify">In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.</p>
 
 
@@ -25,7 +25,6 @@
       <ul>
         <li><a href="#about-the-project">Descriptive analysis</a></li>
         <li><a href="#about-the-project">Hypothesis testing</a></li>
-        <li><a href="#about-the-project">Regression analysis</a></li>
       </ul>
     </li>
     <li>
