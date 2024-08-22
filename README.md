@@ -23,23 +23,39 @@
     <li>
       <a href="#about-the-project">Methodology</a>
       <ul>
-        <li><a href="#built-with">Descriptive analysis</a></li>
-        <li><a href="#built-with">Hypothesis testing</a></li>
-        <li><a href="#built-with">Regression analysis</a></li>
+        <li><a href="#about-the-project">Descriptive analysis</a></li>
+        <li><a href="#about-the-project">Hypothesis testing</a></li>
+        <li><a href="#about-the-project">Regression analysis</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Journey Insights </a>
+      <a href="#about-the-project">Journey Insights </a>
     </li>
-    <li><a href="#contributing">Recommendations</a></li>
+    <li><a href="#about-the-project">Recommendations</a></li>
   </ol>
 </details>
 
+<h3>PASSENGER COUNT ANALYSIS</h3>
+<img src="Figure 1 (1).png" alt="Logo">
+<li><a>Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion, constituting 40.08% of all card transactions.</a></li>
+<li><a>Similarly, cash payments are predominantly associated with single-passenger ride, making up 20.04% of all cash transactions.</a></li>
+<li><a> There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting that larger groups are less likely to use taxis or may opt for alternative payments methods.</a> </li>
+<li><a>These insights emphasize the importance of considering both payment method and passenger count when analyzing transaction data, as they provide valuable insights into customer behavior and preferences.</a></li>
+
 <h3>JOURNEY INSIGHTS</h3>
-<img src="https://cdn-icons-png.flaticon.com/512/1535/1535791.png" alt="Logo" width="90" height="90">
+<img src="Figure 1.png" alt="Logo">
 <li><a>Fig 1. shows customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying the cash.</a></li>
 <li><a>Fig 2. indicates that customer prefers to pay more with cards when they have high fare amount and long trip distance.</a></li>
 <li><a>Fig 3. indicates a strong preferences among customers for using card payments over cash, potentially due to convenience, security, or incentives offered for card transactions.</a></li>
+
+<h3>HYPOTHESIS TESTING</h3>
+<img src="Figure 1 (2).png" alt="Logo">
+<li>Null Hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.</li>
+<li>Alternate Hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash.</li>
+<h4>With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods. Hence, the alternate hypothesis is correct since the p-value is less than 0.05</h4>
+
+<h3>REGRESSION ANALYSIS</h3>
+
 <h3>RECOMMENDATIONS</h3>
 <li>
   <a>Implement strategies such as offering incentives or discounts for credit card transactions to incentivize customers to choose this payment method.</a>
