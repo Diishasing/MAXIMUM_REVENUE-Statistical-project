@@ -34,6 +34,7 @@
   </ol>
 </details>
 <h3>DATA OVERVIEW</h3>
+
 <b>VendorID</b>: A unique identifier for the taxi vendor or service provider.
 
 <b>tpep_pickup_datetime</b>: The date and time when the passenger was picked up.
