@@ -33,6 +33,42 @@
     <li><a href="#about-the-project">Recommendations</a></li>
   </ol>
 </details>
+<h3>DATA OVERVIEW</h3>
+<b>VendorID</b>: A unique identifier for the taxi vendor or service provider.
+
+<b>tpep_pickup_datetime</b>: The date and time when the passenger was picked up.
+
+<b>tpep_dropoff_datetime</b>: The date and time when the passenger was dropped off.
+
+<b>passenger_count</b>: The number of passengers in the taxi.
+
+<b>trip_distance</b>: The total distance of the trip in miles or kilometers.
+
+<b>RatecodeID</b>: The rate code assigned to the trip, representing fare types.
+
+<b>store_and_fwd_flag</b>: Indicates whether the trip data was stored locally and then forwarded later (Y/N).
+
+<b></b>PULocationID: The unique identifier for the pickup location (zone or area).
+
+<b></b>DOLocationID: The unique identifier for the drop-off location (zone or area).
+
+<b></b>payment_type: The method of payment used by the passenger (e.g., cash, card).
+
+<b>fare_amount</b>: The base fare for the trip.
+
+<b>extra</b>: Additional charges applied during the trip (e.g., night surcharge).
+
+<b>mta_tax</b>: The tax imposed by the Metropolitan Transportation Authority.
+
+<b>tip_amount</b>: The tip given to the driver, if applicable.
+
+<b>tolls_amount</b>: The total amount of tolls charged during the trip.
+
+<b>improvement_surcharge</b>: A surcharge imposed for the improvement of services.
+
+<b>total_amount</b>: The total fare amount, including all charges and surcharges.
+
+<b>congestion_surcharg</b>: An additional charge for trips taken during high traffic congestion times.
 
 <h3>PASSENGER COUNT ANALYSIS</h3>
 <img src="Figure 1 (1).png" alt="Logo">
